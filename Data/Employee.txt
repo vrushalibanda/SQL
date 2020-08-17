@@ -1,0 +1,17 @@
+90000489,Shawn,Marion,4,1246 Main Street,M,5-7-1978,62000.00,2
+90000490,Jared,Cunningham,2,1240 Main Street,M,5-22-1991,47500.00,2
+90000491,Rodrigue,Beaubois,1,1234 Main Street,M,2-24-1988,60000.00,2
+90000492,Darren,Collison,2,1238 Main Street,M,8-23-1987,95000.00,2
+90000493,Bernard,James,5,1241 Main Street,M,2-7-1985,36000.00,2
+90000494,Jae,Crowder,5,1239 Main Street,M,7-6-1990,32000.00,2
+90000495,Delonte,West,4,1249 Main Street,M,7-26-1983,71050.00,2
+90000496,Dominique,Jones,6,1244 Main Street,M,10-15-1988,50000.00,2
+90000497,Vince,Carter,1,1237 Main Street,M,1-26-1977,76000.00,2
+90000498,Dahntay,Jones,6,1243 Main Street,M,12-27-1980,100000.00,2
+90000499,O.J.,Mayo,4,1247 Main Street,M,11-5-1987,63500.00,2
+90000500,Brandan,Wright,4,1250 Main Street,M,10-5-1987,68000.00,2
+90000501,Chris,Kaman,3,1245 Main Street,M,4-28-1982,60000.00,1
+90000502,Brian,Cardinal,3,1236 Main Street,M,5-2-1977,50000.00,2
+90000503,Dirk,Nowitzki,3,1248 Main Street,M,6-19-1978,70000.00,2
+90000504,Elton,Brand,3,1235 Main Street,M,3-11-1979,80000.00,3
+90000505,Yi,Jianlian,3,1242 Main Street,M,10-27-1987,27500.00,4

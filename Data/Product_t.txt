@@ -1,0 +1,8 @@
+111,End Table,Cherry,175.00,1 
+211,Coffe Table,Natural Ash,200.00,2 
+311,Computer Desk,Natural Ash,375.00,2 
+411,Entertainment Center,Natural Oak,650.00,3 
+511,Writers Desk,Cherry,325.00,1 
+611,8-Drawer Desk,White Ash,750.00,2 
+711,Dining Table,Natural Ash,800.00,2 
+811,Computer Desk,Walnut,250.00,3

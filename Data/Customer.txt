@@ -1,0 +1,50 @@
+1000001,Kenyon,Coleman,UCLA,33,11
+1000002,Tony,Romo,Eastern Illinois,32,9
+1000003,Derrick,Dockery,Texas,32,10
+1000004,Jay,Ratliff,Auburn,31,8
+1000005,L.P.,Ladouceur,California,31,8
+1000006,Nate,Livings,LSU,30,5
+1000007,Jason,Witten,Tennessee,30,10
+1000008,DeMarcus,Ware,Troy,30,8
+1000009,Jason,Hatcher,Grambling State,30,7
+1000010,Kyle,Orton,Purdue,29,8
+1000011,Gerald,Sensabaugh,North Carolina,29,8
+1000012,Lawrence,Vickers,Colorado,29,7
+1000013,Ryan,Cook,New Mexico,29,7
+1000014,Marcus,Spears,LSU,29,8
+1000015,Miles,Austin,Monmouth (N.J.),28,7
+1000016,Doug,Free,Northern Illinois,28,6
+1000017,Anthony,Spencer,Purdue,28,6
+1000018,Mike,Jenkins,South Florida,27,5
+1000019,Brandon,Carr,Grand Valley State,26,5
+1000020,Sean,Lee,Penn State,26,3
+1000021,Dan,Connor,Penn State,26,5
+1000022,Mackenzy,Bernadeau,Bentley,26,5
+1000023,Jermey,Parnell,Mississippi,26,3
+1000024,Dwayne,Harris,East Carolina,25,2
+1000025,Felix,Jones,Arkansas,25,5
+1000026,Orlando,Scandrick,Boise State,25,5
+1000027,Victor,Butler,Oregon State,25,4
+1000028,Phil,Costa,Maryland,25,3
+1000029,Kevin,Ogletree,Virginia,25,3
+1000030,John,Phillips,Virginia,25,4
+1000031,Sean,Lissemore,William & Mary,25,3
+1000032,Dan,Bailey,Oklahoma State,24,2
+1000033,Andre,Holmes,Hillsdale,24,1
+1000034,DeMarco,Murray,Oklahoma,24,2
+1000035,Phillip,Tanner,Middle Tennessee State,24,2
+1000036,Mana,Silva,Hawaii,24,1
+1000037,Danny,McCray,LSU,24,3
+1000038,Barry,Church,Toledo,24,3
+1000039,Bruce,Carter,North Carolina,24,2
+1000040,Alex,Albright,Boston College,24,2
+1000041,David,Arkin,Missouri State,24,1
+1000042,Josh,Brent,Illinois,24,3
+1000043,Chris,Jones,Carson-Newman,23,1
+1000044,Cole,Beasley,Southern Methodist,23,0
+1000045,LeQuan,Lewis,,23,1
+1000046,Mario,Butler,Georgia Tech,23,1
+1000047,Matt,Johnson,Eastern Washington,23,0
+1000048,Kyle,Wilber,Wake Forest,23,0
+1000049,James,Hanna,Oklahoma,23,0
+1000050,Dez,Bryant,Oklahoma State,23,3

@@ -1,0 +1,8 @@
+30000100,Extreme Mountain Bike,250.00,300.00,350.00
+30000200,Extreme Plus Mountain Bike,350.00,425.00,500.00
+30000300,Extreme Ultra Mountain Bike,500.00,625.00,750.00
+30000400,X Energy Wheel,90.00,107.50,125.00
+30000500,Tubeless Tire,25.00,37.50,50.00
+30000600,Super Soft Front Air Fork,175.00,212.50,250.00
+30000700,Cross Fit Bike Seat,18.50,26.75,35.00
+30000800,Toe Clip Pedal,20.00,22.50,25.00
